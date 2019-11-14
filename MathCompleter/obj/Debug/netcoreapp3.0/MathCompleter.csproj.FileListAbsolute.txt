@@ -1,0 +1,55 @@
+C:\Users\fredr\Desktop\Programmering\Visual Studio\MathCompleter\MathCompleter\bin\Debug\netcoreapp3.0\MathCompleter.exe
+C:\Users\fredr\Desktop\Programmering\Visual Studio\MathCompleter\MathCompleter\bin\Debug\netcoreapp3.0\MathCompleter.deps.json
+C:\Users\fredr\Desktop\Programmering\Visual Studio\MathCompleter\MathCompleter\bin\Debug\netcoreapp3.0\MathCompleter.runtimeconfig.json
+C:\Users\fredr\Desktop\Programmering\Visual Studio\MathCompleter\MathCompleter\bin\Debug\netcoreapp3.0\MathCompleter.runtimeconfig.dev.json
+C:\Users\fredr\Desktop\Programmering\Visual Studio\MathCompleter\MathCompleter\bin\Debug\netcoreapp3.0\MathCompleter.dll
+C:\Users\fredr\Desktop\Programmering\Visual Studio\MathCompleter\MathCompleter\bin\Debug\netcoreapp3.0\MathCompleter.pdb
+C:\Users\fredr\Desktop\Programmering\Visual Studio\MathCompleter\MathCompleter\obj\Debug\netcoreapp3.0\MathCompleter.csprojAssemblyReference.cache
+C:\Users\fredr\Desktop\Programmering\Visual Studio\MathCompleter\MathCompleter\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\fredr\Desktop\Programmering\Visual Studio\MathCompleter\MathCompleter\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\fredr\Desktop\Programmering\Visual Studio\MathCompleter\MathCompleter\obj\Debug\netcoreapp3.0\MathCompleter_MarkupCompile.cache
+C:\Users\fredr\Desktop\Programmering\Visual Studio\MathCompleter\MathCompleter\obj\Debug\netcoreapp3.0\MathCompleter_MarkupCompile.lref
+C:\Users\fredr\Desktop\Programmering\Visual Studio\MathCompleter\MathCompleter\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\fredr\Desktop\Programmering\Visual Studio\MathCompleter\MathCompleter\obj\Debug\netcoreapp3.0\MathCompleter.g.resources
+C:\Users\fredr\Desktop\Programmering\Visual Studio\MathCompleter\MathCompleter\obj\Debug\netcoreapp3.0\MathCompleter.AssemblyInfoInputs.cache
+C:\Users\fredr\Desktop\Programmering\Visual Studio\MathCompleter\MathCompleter\obj\Debug\netcoreapp3.0\MathCompleter.AssemblyInfo.cs
+C:\Users\fredr\Desktop\Programmering\Visual Studio\MathCompleter\MathCompleter\obj\Debug\netcoreapp3.0\MathCompleter.dll
+C:\Users\fredr\Desktop\Programmering\Visual Studio\MathCompleter\MathCompleter\obj\Debug\netcoreapp3.0\MathCompleter.pdb
+C:\Users\fredr\Desktop\Programmering\Visual Studio\CSharp-MathCompleter\MathCompleter\bin\Debug\netcoreapp3.0\MathCompleter.exe
+C:\Users\fredr\Desktop\Programmering\Visual Studio\CSharp-MathCompleter\MathCompleter\bin\Debug\netcoreapp3.0\MathCompleter.deps.json
+C:\Users\fredr\Desktop\Programmering\Visual Studio\CSharp-MathCompleter\MathCompleter\bin\Debug\netcoreapp3.0\MathCompleter.runtimeconfig.json
+C:\Users\fredr\Desktop\Programmering\Visual Studio\CSharp-MathCompleter\MathCompleter\bin\Debug\netcoreapp3.0\MathCompleter.runtimeconfig.dev.json
+C:\Users\fredr\Desktop\Programmering\Visual Studio\CSharp-MathCompleter\MathCompleter\bin\Debug\netcoreapp3.0\MathCompleter.dll
+C:\Users\fredr\Desktop\Programmering\Visual Studio\CSharp-MathCompleter\MathCompleter\bin\Debug\netcoreapp3.0\MathCompleter.pdb
+C:\Users\fredr\Desktop\Programmering\Visual Studio\CSharp-MathCompleter\MathCompleter\obj\Debug\netcoreapp3.0\MathCompleter.csprojAssemblyReference.cache
+C:\Users\fredr\Desktop\Programmering\Visual Studio\CSharp-MathCompleter\MathCompleter\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\fredr\Desktop\Programmering\Visual Studio\CSharp-MathCompleter\MathCompleter\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\fredr\Desktop\Programmering\Visual Studio\CSharp-MathCompleter\MathCompleter\obj\Debug\netcoreapp3.0\MathCompleter_MarkupCompile.cache
+C:\Users\fredr\Desktop\Programmering\Visual Studio\CSharp-MathCompleter\MathCompleter\obj\Debug\netcoreapp3.0\MathCompleter_MarkupCompile.lref
+C:\Users\fredr\Desktop\Programmering\Visual Studio\CSharp-MathCompleter\MathCompleter\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\fredr\Desktop\Programmering\Visual Studio\CSharp-MathCompleter\MathCompleter\obj\Debug\netcoreapp3.0\MathCompleter.g.resources
+C:\Users\fredr\Desktop\Programmering\Visual Studio\CSharp-MathCompleter\MathCompleter\obj\Debug\netcoreapp3.0\MathCompleter.AssemblyInfoInputs.cache
+C:\Users\fredr\Desktop\Programmering\Visual Studio\CSharp-MathCompleter\MathCompleter\obj\Debug\netcoreapp3.0\MathCompleter.AssemblyInfo.cs
+C:\Users\fredr\Desktop\Programmering\Visual Studio\CSharp-MathCompleter\MathCompleter\obj\Debug\netcoreapp3.0\MathCompleter.dll
+C:\Users\fredr\Desktop\Programmering\Visual Studio\CSharp-MathCompleter\MathCompleter\obj\Debug\netcoreapp3.0\MathCompleter.pdb
+C:\Users\fredr\Desktop\Programmering\Visual Studio\CSharp-MathCompleter\MathCompleter\obj\Debug\netcoreapp3.0\AndengradsLigning.g.cs
+C:\Users\fredr\Desktop\Programmering\Visual Studio\CSharp-MathCompleter\MathCompleter\obj\Debug\netcoreapp3.0\AndengradsLigning.baml
+C:\Users\Bruger\Desktop\Programering\CSharp-MathCompleter\MathCompleter\bin\Debug\netcoreapp3.0\MathCompleter.exe
+C:\Users\Bruger\Desktop\Programering\CSharp-MathCompleter\MathCompleter\bin\Debug\netcoreapp3.0\MathCompleter.deps.json
+C:\Users\Bruger\Desktop\Programering\CSharp-MathCompleter\MathCompleter\bin\Debug\netcoreapp3.0\MathCompleter.runtimeconfig.json
+C:\Users\Bruger\Desktop\Programering\CSharp-MathCompleter\MathCompleter\bin\Debug\netcoreapp3.0\MathCompleter.runtimeconfig.dev.json
+C:\Users\Bruger\Desktop\Programering\CSharp-MathCompleter\MathCompleter\bin\Debug\netcoreapp3.0\MathCompleter.dll
+C:\Users\Bruger\Desktop\Programering\CSharp-MathCompleter\MathCompleter\bin\Debug\netcoreapp3.0\MathCompleter.pdb
+C:\Users\Bruger\Desktop\Programering\CSharp-MathCompleter\MathCompleter\obj\Debug\netcoreapp3.0\MathCompleter.csprojAssemblyReference.cache
+C:\Users\Bruger\Desktop\Programering\CSharp-MathCompleter\MathCompleter\obj\Debug\netcoreapp3.0\AndengradsLigning.g.cs
+C:\Users\Bruger\Desktop\Programering\CSharp-MathCompleter\MathCompleter\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\Bruger\Desktop\Programering\CSharp-MathCompleter\MathCompleter\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\Bruger\Desktop\Programering\CSharp-MathCompleter\MathCompleter\obj\Debug\netcoreapp3.0\MathCompleter_MarkupCompile.cache
+C:\Users\Bruger\Desktop\Programering\CSharp-MathCompleter\MathCompleter\obj\Debug\netcoreapp3.0\MathCompleter_MarkupCompile.lref
+C:\Users\Bruger\Desktop\Programering\CSharp-MathCompleter\MathCompleter\obj\Debug\netcoreapp3.0\AndengradsLigning.baml
+C:\Users\Bruger\Desktop\Programering\CSharp-MathCompleter\MathCompleter\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\Bruger\Desktop\Programering\CSharp-MathCompleter\MathCompleter\obj\Debug\netcoreapp3.0\MathCompleter.g.resources
+C:\Users\Bruger\Desktop\Programering\CSharp-MathCompleter\MathCompleter\obj\Debug\netcoreapp3.0\MathCompleter.AssemblyInfoInputs.cache
+C:\Users\Bruger\Desktop\Programering\CSharp-MathCompleter\MathCompleter\obj\Debug\netcoreapp3.0\MathCompleter.AssemblyInfo.cs
+C:\Users\Bruger\Desktop\Programering\CSharp-MathCompleter\MathCompleter\obj\Debug\netcoreapp3.0\MathCompleter.dll
+C:\Users\Bruger\Desktop\Programering\CSharp-MathCompleter\MathCompleter\obj\Debug\netcoreapp3.0\MathCompleter.pdb
