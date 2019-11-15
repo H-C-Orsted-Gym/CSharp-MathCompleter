@@ -1,25 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fredr\\Desktop\\Programmering\\Visual Studio\\CSharp-MathCompleter\\MathCompleter\\MathCompleter.csproj": {}
+    "D:\\Programering\\CSharp-MathCompleter\\MathCompleter\\MathCompleter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fredr\\Desktop\\Programmering\\Visual Studio\\CSharp-MathCompleter\\MathCompleter\\MathCompleter.csproj": {
+    "D:\\Programering\\CSharp-MathCompleter\\MathCompleter\\MathCompleter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fredr\\Desktop\\Programmering\\Visual Studio\\CSharp-MathCompleter\\MathCompleter\\MathCompleter.csproj",
+        "projectUniqueName": "D:\\Programering\\CSharp-MathCompleter\\MathCompleter\\MathCompleter.csproj",
         "projectName": "MathCompleter",
-        "projectPath": "C:\\Users\\fredr\\Desktop\\Programmering\\Visual Studio\\CSharp-MathCompleter\\MathCompleter\\MathCompleter.csproj",
-        "packagesPath": "C:\\Users\\fredr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fredr\\Desktop\\Programmering\\Visual Studio\\CSharp-MathCompleter\\MathCompleter\\obj\\",
+        "projectPath": "D:\\Programering\\CSharp-MathCompleter\\MathCompleter\\MathCompleter.csproj",
+        "packagesPath": "C:\\Users\\Bruger\\.nuget\\packages\\",
+        "outputPath": "D:\\Programering\\CSharp-MathCompleter\\MathCompleter\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\fredr\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Bruger\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
