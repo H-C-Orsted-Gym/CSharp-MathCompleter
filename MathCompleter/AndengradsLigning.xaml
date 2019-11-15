@@ -21,10 +21,8 @@
             <RowDefinition Height="2*" />
             <RowDefinition Height="2*" />
         </Grid.RowDefinitions>
-		<TextBox x:Name="Aværdi" BorderThickness="1" Padding="40" Text="A-Værdi" TextWrapping="Wrap" Grid.Column="1" Grid.Row="1" TextAlignment="Center" FontSize="15"/>
-		<TextBox x:Name="Bværdi" BorderThickness="1" Padding="40" Text="B-Værdi" TextWrapping="Wrap" Grid.Column="2" Grid.Row="1" TextAlignment="Center" FontSize="15"/>
-		<TextBox x:Name="Cværdi" BorderThickness="1" Padding="40" Text="C-Værdi" TextWrapping="Wrap" Grid.Column="3" Grid.Row="1" TextAlignment="Center" FontSize="15"/>
-        <TextBlock x:Name="Output_AndenGradsLigning" Grid.Column="1" Grid.Row="2" Text="" TextWrapping="Wrap" Grid.ColumnSpan="3"/>
+		<TextBox x:Name="Ligning" BorderThickness="3" Padding="40" Text="Indtast ligning her Eksempel: 1x^2+2x+3=0" TextWrapping="Wrap" Grid.Column="1" Grid.Row="1" TextAlignment="Center" FontSize="15" Grid.ColumnSpan="3"/>
+		<TextBlock x:Name="Output_AndenGradsLigning" Grid.Column="1" Grid.Row="2" Text="" TextWrapping="Wrap" Grid.ColumnSpan="3"/>
 		<Button x:Name="Udregn" BorderThickness="0" Padding="15" Grid.Column="2" HorizontalAlignment="Center" Grid.Row="3" VerticalAlignment="Center" Click="Udreng_Click">Udregn</Button>
 	</Grid>
 </Window>
